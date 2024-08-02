@@ -35,7 +35,7 @@
 
 
 - 🔭 I’m currently working on Web FullStack Developer...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Flutter
 - 📫 How to reach me: marcoant.gomes07@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs
