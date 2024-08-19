@@ -33,8 +33,7 @@
   <a href="https://twitter.com/MarcoAn01862181" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
  
-![snake animation](https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/output/github-contribution-grid-snake2.svg)
-
+![alt text](https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/[branch]/dev.png?raw=true)
 
 - 🔭 I’m currently working on Web FullStack Developer...
 - 🌱 I’m currently learning React and Flutter
