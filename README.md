@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there 👋 I'm Marco Antônio, a simple guy enthusiast about everthing in programming world!
+</p>
 
 <div align="center">
   <a href="https://github.com/MarcoAntonioGomes">
@@ -32,12 +34,19 @@
   <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-gomes-098031149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/MarcoAn01862181" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
- 
-![alt text](https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/[branch]/dev.png?raw=true)
 
-- 🔭 I’m currently working on Web FullStack Developer...
-- 🌱 I’m currently learning React and Flutter
-- 📫 How to reach me: marcoant.gomes07@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs
--->
+<p align="center">
+ <img src="https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/main/dev.png.png?raw=true" style="margin-left: 500px" width="50%" height="50%">
+</p>
+
+<p align="center">
+
+  <ul>
+    <li>🔭 I’m currently working on Web FullStack Developer...</li>
+    <li>🌱 I’m currently learning React and Flutter</li>
+    <li>📫 How to reach me: marcoant.gomes07@gmail.com</li>
+    <li>😄 Pronouns: He/His</li>
+    <li>⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs  </li> 
+</ul>
+
+</p>
