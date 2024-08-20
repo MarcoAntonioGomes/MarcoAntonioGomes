@@ -27,7 +27,7 @@
   
   ##
  
-<div style="display: inline_block;   text-align: center;  margin: 0 auto;"> 
+<div> 
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://www.instagram.com/m4rc0g0ms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcoant.gomes07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,20 +36,16 @@
 </div>
 
 <p align="center">
- <img src="https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/main/dev.png.png?raw=true" style="margin-left: 500px" width="50%" height="50%">
+ <img src="https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/main/dev.png.png?raw=true"  width="50%" height="50%">
 </p>
 
-<div>
- <p align="center">
-   <img src="[https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/main/dev.png.png?raw=true](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png?20200606142532)"  width="200%" height="50%">
 
-   <ul>
-     <li >🔭 I’m currently working on Web FullStack Developer...</li>
-     <li >🌱 I’m currently learning React and Flutter</li>
-     <li >📫 How to reach me: marcoant.gomes07@gmail.com</li>
-     <li >😄 Pronouns: He/His</li>
-     <li>⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs  </li> 
- </ul>
+ <p align="center"> 🔭 I’m currently working on Web FullStack Developer... </p>
+<p align="center">   🌱 I’m currently learning React and Flutter </p>
+<p align="center">    📫 How to reach me: marcoant.gomes07@gmail.com </p>
+<p align="center">    😄 Pronouns: He/His </p>
+<p align="center">    ⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs </p>
 
- </p>
-</div>
+
+    
+      
