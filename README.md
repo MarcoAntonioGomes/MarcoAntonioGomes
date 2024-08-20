@@ -1,5 +1,5 @@
 <p align="center">
- <h3><b>Hi there 👋 I'm Marco Antônio, a simple guy enthusiast about everthing in programming world!</b></h3>
+ <h3 align="center" ><b>Hi there 👋 I'm Marco Antônio, a simple guy enthusiast about everthing in programming world!</b></h3>
 </p>
 
 <div align="center">
@@ -39,14 +39,17 @@
  <img src="https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/main/dev.png.png?raw=true" style="margin-left: 500px" width="50%" height="50%">
 </p>
 
-<p align="center">
+<div>
+ <p align="center">
+   <img src="[https://github.com/MarcoAntonioGomes/MarcoAntonioGomes/blob/main/dev.png.png?raw=true](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/800px-HD_transparent_picture.png?20200606142532)"  width="200%" height="50%">
 
-  <ul>
-    <li>🔭 I’m currently working on Web FullStack Developer...</li>
-    <li>🌱 I’m currently learning React and Flutter</li>
-    <li>📫 How to reach me: marcoant.gomes07@gmail.com</li>
-    <li>😄 Pronouns: He/His</li>
-    <li>⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs  </li> 
-</ul>
+   <ul>
+     <li >🔭 I’m currently working on Web FullStack Developer...</li>
+     <li >🌱 I’m currently learning React and Flutter</li>
+     <li >📫 How to reach me: marcoant.gomes07@gmail.com</li>
+     <li >😄 Pronouns: He/His</li>
+     <li>⚡ Fun fact: Sometimes I dream how to solve software problems rsrsrs  </li> 
+ </ul>
 
-</p>
+ </p>
+</div>
