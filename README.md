@@ -1,5 +1,5 @@
 <p align="center">
-### Hi there 👋 I'm Marco Antônio, a simple guy enthusiast about everthing in programming world!
+ <h3><b>Hi there 👋 I'm Marco Antônio, a simple guy enthusiast about everthing in programming world!</b></h3>
 </p>
 
 <div align="center">
